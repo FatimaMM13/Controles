@@ -1,0 +1,1 @@
+# He compilado y ejecutado el programa StringExample.java para probar que funciona el código.
